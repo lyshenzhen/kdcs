@@ -1,0 +1,31 @@
+{
+    "getButtonsAuthority.do":[
+        {
+            "FUNCTION_ID":"1",
+            "FORM_ID":"ea73056e832046528d69ee05e3340600",
+            "FUNCTION_CODE":"btn-query",
+            "FUNCTION_NAME":"查询",
+            "FORM_NAME":"/src/Project/Page/CustomsDeclaration/ASNInvoiceDetail.html",
+            "FORM_TYPE":"P",
+            "IS_EXIST_DATAGUID":0
+        },
+        {
+            "FUNCTION_ID":"8405C211690DB521E050007F01006135",
+            "FORM_ID":"ea73056e832046528d69ee05e3340600",
+            "FUNCTION_CODE":"btn-save",
+            "FUNCTION_NAME":"保存",
+            "FORM_NAME":"/src/Project/Page/CustomsDeclaration/ASNInvoiceDetail.html",
+            "FORM_TYPE":"P",
+            "IS_EXIST_DATAGUID":0
+        },
+        {
+            "FUNCTION_ID":"8405C211690FB521E050007F01006135",
+            "FORM_ID":"ea73056e832046528d69ee05e3340600",
+            "FUNCTION_CODE":"btn-edit",
+            "FUNCTION_NAME":"编辑",
+            "FORM_NAME":"/src/Project/Page/CustomsDeclaration/ASNInvoiceDetail.html",
+            "FORM_TYPE":"P",
+            "IS_EXIST_DATAGUID":0
+        }
+    ]
+}
